@@ -1,6 +1,6 @@
 {
-  "name": "sybookcms-v4",
-  "short_name": "sybookcms-v4",
+  "name": "sybookcms",
+  "short_name": "sybookcms",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
